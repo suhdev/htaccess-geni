@@ -1,0 +1,28 @@
+{
+  "name": "htaccess-geni",
+  "version": "1.0.0",
+  "description": "A module to generate htaccess files through a builder pattern ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suhdev/htaccess-geni.git"
+  },
+  "keywords": [
+    "htaccess",
+    "generate",
+    "htaccess",
+    "builder",
+    "pattern",
+    "apache",
+    "mod_rewrite"
+  ],
+  "author": "Suhail Abood <suhail.abood@gmail.com> (suhailabood.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhdev/htaccess-geni/issues"
+  },
+  "homepage": "https://github.com/suhdev/htaccess-geni"
+}
